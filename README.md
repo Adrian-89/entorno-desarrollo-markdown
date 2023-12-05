@@ -82,6 +82,6 @@ console.log("hola mundo")
 <!-- Listas TO DO -->
 ## Listas TO DO:
 * [X] Tarea1
-* [ ] Tarea2
-* [ ] Tarea3
+* [✔] Tarea2
+* [✔] Tarea3
 * [X] Tarea4
