@@ -71,3 +71,17 @@ console.log("hola mundo")
 <!-- Acceso a paginas web -->
 ## Acceso a paginas web:
 [periodico el pais](https://www.elpais.es)
+
+---
+<!-- Insertar imagenes -->
+## Insertar imagenes:
+![visual studio logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "VSC logo")
+
+---
+
+<!-- Listas TO DO -->
+## Listas TO DO:
+* [X] Tarea1
+* [ ] Tarea2
+* [ ] Tarea3
+* [X] Tarea4
